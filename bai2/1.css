@@ -1,0 +1,409 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+.menu h1 {
+    font-size: 26px;
+    font-weight: 500;
+}
+
+.footer .b {position: absolute;top: 0px;z-index: 1;left: 710px;}
+
+.footer p {
+    padding: 25px 30px;
+}
+
+.footer {
+    width: 960px;
+    margin: auto;
+    height: 60px;
+    background: #444444;
+    color: #d0d0d0;
+    position: relative;
+}
+
+.khoi5 .submit {
+    padding: 7px 11px;
+    border-radius: 6px;
+    border: none;
+    color: #874ca0;
+}
+
+.khoi5 .khoie #a {
+    width: 200px;
+    height: 30px;
+    margin: 10px 0px;
+    border-radius: 7px;
+    background: #e6e6e6;
+    border: none;
+    padding: 0px 10px;
+}
+
+.khoid {
+    width: 210px;
+}
+
+.khoi5 .khoie {
+    width: 210px;
+}
+
+.khoi5 .khoid a {
+    padding-left: 92px;
+    color: #874ca0;
+    text-decoration: none;
+}
+
+.khoi5 .khoid p {
+    line-height: 20px;
+    padding-bottom: 1px;
+}
+
+p.p1 {
+    font-weight: 600;
+}
+
+.khoi5 .khoic {
+}
+
+.khoi5 .khoib p {
+    line-height: 22px;
+}
+
+.khoi5 .khoic p {
+    border-bottom: 1px solid;
+    width: 210px;
+}
+
+.khoi5  p {
+    padding: 10px 0px;
+    font-size: 13px;
+    color: #999999;
+}
+
+.khoi5 h3 {
+    padding: 10px 0px;
+    color: #666666;
+    font-weight: 300;
+    font-size: 17px;
+}
+
+.khoi5 .khoib, .khoi5 .khoic,.khoi5 .khoid,.khoi5 .khoie {
+    padding-left: 30px;
+    float: left;
+    padding-top: 30px;
+}
+
+.khoi5 {
+    width: 960px;
+    height: 250px;
+    background: white;
+    margin: auto;
+    /* padding: 30px; */
+}
+
+.khoi4 .khoia p {
+    text-align: center;
+    font-size: 13px;
+    padding: 0px 15px;
+    color: #666666;
+}
+
+.khoi4 .khoia h3 {
+    text-align: center;
+    font-size: 16px;
+    color: #894aa3;
+    padding-bottom: 20px;
+    font-weight: 300;
+}
+
+.khoi4 .khoia img {
+    padding: 10px;
+}
+
+.khoi4 .khoia {
+    
+    width: 280px;
+    height: 320px;
+    background: white;
+    
+    float: left;
+    margin-left: 30px;
+}
+
+.khoi4 {
+    width: 960px;
+    height: 330px;
+    background: #ebebea;
+    margin: auto;
+    padding: 50px 0px;
+}
+
+.khoi3 .khoinho p {
+    font-size: 14px;
+    color: #666666;
+}
+
+.khoi3 .khoinho h3 {
+    font-size: 20px;
+    font-weight: 200;
+    color: #894aa3;
+    padding-bottom: 20px;
+}
+
+.khoi3 .anh {
+    float: left;
+    height: 200px;
+    padding-right: 20px;
+}
+
+.khoi3 .khoinho {
+    width: 278px;
+    height: 200px;
+    padding-top: 38px;
+    padding-left: 30px;
+    float: left;
+}
+
+.khoi3 {
+    width: 960px;
+    height: 250px;
+    margin: auto;
+    background: white;
+}
+
+.khoi2 .silede p {
+    font-size: 13px;
+    padding-left: 20px;
+}
+
+.khoi2 .silede h3 {
+    padding: 25px 20px;
+    font-size: 20px;
+}
+
+.khoi2 .silede {
+    position: absolute;
+    z-index: 3;
+    top: 491px;
+    left: 705px;
+    width: 450px;
+    height: 120px;
+    background: black;
+    color: #c2c2c2;
+}
+
+
+
+.icontrai {position: absolute;z-index: 1;top: 402px;left: 225px;font-size: 50px;}
+
+
+
+.khoi2 {
+    width: 960px;
+    height: 380px;
+    margin: auto;
+    border: none;
+    overflow: hidden;
+}
+
+.khoi1 h3 {
+    text-align: center;
+    padding-top: 27px;
+    font-weight: 400;
+    color: #333333;
+}
+
+.khoi1 {
+    width: 960px;
+    height: 100px;
+    margin: auto;
+    background: #ebebea;
+}
+body{
+	font-family: Georgia;
+}
+
+.meutrai .khoimenu a {
+    text-transform: initial;
+}
+
+.menutrai li {
+    float: left;
+    padding-left: 29px;
+    list-style: none;
+    padding-top: 70px;
+}
+
+.menutrai li a {
+    text-decoration: none;
+    font-size: 12px;
+    color: #666666;
+}
+
+.menutrai li a:hover {
+    color: black;
+}
+
+.khoimenu {float: left;}
+
+.icon {
+    position: absolute;
+    z-index: 4;
+    border: 1px solid #ffffff;
+    left: 526px;
+    padding: 8px;
+    border-radius: 50%;
+    top: 4px;
+    background: white;
+}
+
+.menu .ino {
+    position: absolute;
+    z-index: 3;
+    left: 333px;
+    width: 215px;
+    height: 30px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    background: #ebebea;
+    border: none;
+}
+
+.menutrai {
+    position: absolute;
+    z-index: 2;
+    float: left;
+    left: 380px;
+}
+
+.menu .logo {
+    padding: 30px 10px;
+    color: #c1c1c1;
+    position: absolute;
+}
+
+.menu {
+    width: 960px;
+    height: 125px;
+    position: relative;
+    margin: auto;
+    border-top: 7px solid #894aa3;
+}
+
+.daucham {
+    position: absolute;
+    z-index: 3;
+    top: 569px;
+    left: 232px;
+    color: #666666;
+}
+
+.khoi2 .iconphai {
+    position: absolute;
+    top: 402px;
+    left: 1081px;
+    font-size: 50px;
+    color: #666666;
+}
+
+.icontrai {position: absolute;z-index: 1;top: 402px;left: 225px;font-size: 50px;color: #666666;}
+
+.khoi2 .anh {
+    position: relative;
+}
+
+.khoi2 {
+    width: 960px;
+    height: 380px;
+    margin: auto;
+    border: none;
+    overflow: hidden;
+}
+
+.khoi1 h3 {
+    text-align: center;
+    padding-top: 27px;
+    font-weight: 400;
+    color: #333333;
+}
+
+.khoi1 {
+    width: 960px;
+    height: 100px;
+    margin: auto;
+    background: #ebebea;
+}
+body{
+	font-family: Georgia;
+	background: #d0d0d0;
+}
+
+.meutrai .khoimenu a {
+    text-transform: initial;
+}
+
+.menutrai li {
+    float: left;
+    padding-left: 29px;
+    list-style: none;
+    padding-top: 70px;
+}
+
+.menutrai li a {
+    text-decoration: none;
+    font-size: 12px;
+    color: #666666;
+}
+
+.menutrai li a:hover {
+    color: black;
+}
+
+.khoimenu {float: left;}
+
+.icon {
+    position: absolute;
+    z-index: 4;
+    border: 1px solid #ffffff;
+    left: 523px;
+    padding: 3px;
+    background: white;
+    top: 2px;
+    font-size: 13px;
+    color: #894aa3;
+}
+
+.menu .ino {
+    position: absolute;
+    z-index: 3;
+    left: 333px;
+    width: 215px;
+    height: 30px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    background: #ebebea;
+    border: none;
+}
+
+.menutrai {
+    position: absolute;
+    z-index: 2;
+    float: left;
+    left: 380px;
+}
+
+.menu .logo {
+    padding: 30px 10px;
+    color: #c1c1c1;
+    position: absolute;
+}
+
+.menu {
+    width: 960px;
+    height: 125px;
+    position: relative;
+    margin: auto;
+    border-top: 7px solid #894aa3;
+    background: white;
+}

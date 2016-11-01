@@ -1,0 +1,316 @@
+*{margin:0;padding:0; }
+
+.khoicham {
+}
+
+.ourplayers .nut {
+    border-top: 1px solid #e2e2e2;
+    width: 97.5%;
+    margin: auto;
+}
+
+.latestwork .nut {
+    border-top: 1px solid #e2e2e2;
+    width: 97.5%;
+    margin: auto;
+    margin-top: 35px;
+    margin-bottom: 13px;
+}
+
+.cuoi p {
+    margin-left: 20px;
+    padding-top: 25px;
+    float: left;
+}
+
+.cuoi .b {
+    margin-left: 382px;
+}
+
+.cuoi hr {
+    width: 960px;
+    margin: auto;
+    color: white;
+    border: 1px solid white;
+}
+
+.cuoi {
+    background: #e2e2e2;
+    width: 1000px;
+    margin: auto;
+    height: 60px;
+}
+
+.footer .submit {
+    margin-top: 10px;
+    padding: 10px;
+    background: #e2494b;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+
+
+
+.footer .input1 {
+    height: 110px;
+    width: 219px;
+    border: none;
+    margin-top: 20px;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.footer #a {
+    height: 30px;
+    width: 225px;
+    margin-top: 20px;
+    border-radius: 8px;
+    border: none;
+    padding-left: 11px;
+}
+
+
+
+.footer .khoi6 {
+    width: 225px;
+    height: 360px;
+    float: left;
+}
+
+.footer .khoi5 {
+    height: 350px;
+    float: left;
+    width: 225px;
+    padding-right: 20px;
+}
+
+.khoi2 {
+    width: 1000px;
+    margin: auto;
+}
+
+hr {
+    width: 1000px;
+    margin: auto;
+}
+body{
+	font-family: Georgia;
+}
+
+.khoinho .tieude p {
+    padding: 10px 125px;
+    color: red;
+    padding-bottom: 10px;
+}
+
+.khoinho p {padding-left: 125px;}
+
+.khoinho img {
+    float: left;
+}
+
+.footer .khoinho {
+    float: left;
+    margin-top: 20px;
+}
+
+.footer .khoi4 h4, .footer .khoi5 h4,.footer .khoi6 h4 {padding-top: 40px;color: #333333;}
+
+.footer .khoi5 h4 {
+    padding-bottom: 22px;
+}
+
+.footer .khoi4 {
+    width: 456px;
+    height: 360px;
+    
+    float: left;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.footer {
+    background-color: #e2e2e2;
+    width: 1000px;
+    height: 380px;
+    margin: auto;
+}
+
+.khoiden h2 {
+    padding-top: 61px;
+}
+
+.latestwork .khoiden {
+    width: 300px;
+    height: 160px;
+    background: black;
+    color: white;
+    text-align: center;
+    float: left;
+    margin-left: 30px;
+    margin-bottom: 40px;
+}
+
+.latestwork {
+    width: 1027px;
+    margin: auto;
+    height: 260px;
+}
+
+.ourplayers .khoib {
+    width: 175px;
+    height: 295px;
+    float: left;
+    padding: 12px;
+}
+
+.lateswork .nut {
+    border-top: 1px solid #795548;
+}
+
+.ourplayers {
+    width: 1000px;
+    margin: auto;
+    height: 422px;
+}
+
+.our {
+    margin-left: 154px;
+    height: 200px;
+}
+
+.our a,.ourplayers a {
+    text-decoration: none;
+    color: red;
+}
+
+p {
+    color: #979797;
+    padding-bottom: 10px;
+}
+
+.our .khoia h3 {
+    padding-left: 44px;
+    padding-bottom: 16px;
+    color: #666666;
+}
+
+.our .khoia .den {
+    width: 30px;
+    height: 30px;
+    background: black;
+    float: left;
+}
+
+.our .khoia {
+    width: 300px;
+    height: 150px;
+    float: left;
+    padding-left: 30px;
+}
+
+.khoi2 .boder {
+    padding-bottom: 40px;
+    border-top: 1px solid #e2e2e2;
+    margin: auto;
+    width: 97%;
+    margin-top: 56px;
+}
+
+.khoi2 .boder h2, .ourplayers .nut h3,.latestwork .nut h3 {
+    border: 1px solid #e2494b;
+    width: 177px;
+    margin: auto;
+    background: #e2494b;
+    border-radius: 7px;
+    color: white;
+    position: relative;
+    top: -22px;
+    padding: 7px;
+    font-size: 19px;
+    text-align: center;
+}
+
+
+
+.khoi2 .cham {
+    width: 7px;
+    height: 7px;
+    border: 1px solid #e2e2e2;
+   
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background: #e2e2e2;
+    border-radius: 50%;
+    float: left;
+    margin-left: 8px;
+    position: relative;
+    left: 459px;
+}
+
+
+.khoi2 .anh {
+    border: 1px solid;
+    width: 960px;
+    height: 350px;
+    margin: auto;
+    background: #353535;
+}
+
+.khoi2 h3 {
+    text-align: center;
+    padding-top: 24px;
+    color: #505050;
+    padding-bottom: 32px;
+}
+
+.khoi1 {
+    padding-bottom: 40px;
+    margin: auto;
+    width: 1000px;
+}
+
+.logo p {
+    color: #505050;
+}
+
+.logo h3 {
+    font-size: 26px;
+    color: #505050;
+}
+
+.menu ul {
+    border: 1px solid white;
+    height: 52px;
+    background-color: #e2494b;
+    border-radius: 17px;
+    width: 629px;
+}
+
+
+
+.menu {
+    margin-left: 360px;
+    padding-top: 50px;
+    color: white;
+}
+
+.menu li {
+    float: left;
+    padding: 16px;
+    list-style: none;
+}
+
+.menu a {text-decoration: blink;color: white;padding-left: 14px;font-size: 13px;}
+
+.menu a:hover {
+    color: #ee9395;
+}
+
+
+
+
+.logo {margin-left: 40px;float: left;padding-top: 50px;}
+ 
+
