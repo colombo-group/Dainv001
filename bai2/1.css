@@ -1,6 +1,6 @@
 *{
-	padding: 0px;
-	margin: 0px;
+    padding: 0px;
+    margin: 0px;
 }
 
 .menu h1 {
@@ -185,8 +185,8 @@ p.p1 {
 .khoi2 .silede {
     position: absolute;
     z-index: 3;
-    top: 491px;
-    left: 705px;
+    top: 258px;
+    right: 0px;
     width: 450px;
     height: 120px;
     background: black;
@@ -221,7 +221,7 @@ p.p1 {
     background: #ebebea;
 }
 body{
-	font-family: Georgia;
+    font-family: Georgia;
 }
 
 .meutrai .khoimenu a {
@@ -293,24 +293,26 @@ body{
 
 .daucham {
     position: absolute;
-    z-index: 3;
-    top: 569px;
-    left: 232px;
+    z-index: 2;
+    top: 335px;
+    left: 30px;
     color: #666666;
 }
 
 .khoi2 .iconphai {
     position: absolute;
-    top: 402px;
-    left: 1081px;
+    top: 190px;
+    right: 30px;
     font-size: 50px;
     color: #666666;
+    z-index: 2;
 }
 
-.icontrai {position: absolute;z-index: 1;top: 402px;left: 225px;font-size: 50px;color: #666666;}
+.icontrai {position: absolute;z-index: 2;top: 190px;left: 30px;font-size: 50px;color: #666666;}
 
 .khoi2 .anh {
-    position: relative;
+    position: absolute;
+    z-index: 1;
 }
 
 .khoi2 {
@@ -319,6 +321,7 @@ body{
     margin: auto;
     border: none;
     overflow: hidden;
+    position: relative;
 }
 
 .khoi1 h3 {
@@ -335,8 +338,8 @@ body{
     background: #ebebea;
 }
 body{
-	font-family: Georgia;
-	background: #d0d0d0;
+    font-family: Georgia;
+    background: #d0d0d0;
 }
 
 .meutrai .khoimenu a {
@@ -384,6 +387,7 @@ body{
     border-bottom-left-radius: 8px;
     background: #ebebea;
     border: none;
+    padding-left: 15px;  /* lỗi #2 */
 }
 
 .menutrai {
