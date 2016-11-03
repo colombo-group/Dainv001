@@ -1,8 +1,22 @@
 *{margin:0;padding:0; }
 
-.khoicham {
+.footer .anh1 {
+    border: 1px solid gray;
+    width: 96px;
+    height: 96px;
+    float: left;
+    padding: 2px;
 }
 
+.latestwork .khoiden1, .latestwork .khoiden2 {
+    margin-right: 30px;
+}
+
+.ourplayers .title {padding-top: 10px;padding-bottom: 7px;}
+
+ p {
+    color: #979797;
+ }
 .ourplayers .nut {
     border-top: 1px solid #e2e2e2;
     width: 97.5%;
@@ -88,6 +102,7 @@
 .khoi2 {
     width: 1000px;
     margin: auto;
+    height: 590px;
 }
 
 hr {
@@ -95,7 +110,7 @@ hr {
     margin: auto;
 }
 body{
-	font-family: Georgia;
+    font-family: Georgia;
 }
 
 .khoinho .tieude p {
@@ -107,7 +122,7 @@ body{
 .khoinho p {padding-left: 125px;}
 
 .khoinho img {
-    float: left;
+    /* float: left; */
 }
 
 .footer .khoinho {
@@ -137,23 +152,23 @@ body{
     margin: auto;
 }
 
-.khoiden h2 {
+.khoiden h2,.khoiden1 h2,.khoiden2 h2 {
     padding-top: 61px;
 }
 
-.latestwork .khoiden {
+.latestwork .khoiden,.khoiden1,.khoiden2 {
     width: 300px;
     height: 160px;
     background: black;
     color: white;
     text-align: center;
     float: left;
-    margin-left: 30px;
+    /* margin-right: 30px; */
     margin-bottom: 40px;
 }
 
 .latestwork {
-    width: 1027px;
+    width: 960px;
     margin: auto;
     height: 260px;
 }
@@ -162,7 +177,7 @@ body{
     width: 175px;
     height: 295px;
     float: left;
-    padding: 12px;
+    margin-left: 20px;
 }
 
 .lateswork .nut {
@@ -175,9 +190,12 @@ body{
     height: 422px;
 }
 
+/* lÃ´i #3 */
 .our {
-    margin-left: 154px;
+    
     height: 200px;
+    width: 1000px;
+    margin: auto;
 }
 
 .our a,.ourplayers a {
@@ -185,7 +203,7 @@ body{
     color: red;
 }
 
-p {
+.our    p {
     color: #979797;
     padding-bottom: 10px;
 }
