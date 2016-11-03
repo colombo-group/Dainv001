@@ -3,6 +3,14 @@
     margin: 0px;
 }
 
+i.fa.fa-search {
+    border: 1px solid;
+    padding: 3px;
+    border-radius: 50%;
+    font-size: 14px;
+    background: white;
+}
+
 .menu h1 {
     font-size: 26px;
     font-weight: 500;
@@ -24,10 +32,11 @@
 }
 
 .khoi5 .submit {
-    padding: 7px 11px;
+    padding: 7px 12px;
     border-radius: 6px;
     border: none;
     color: #874ca0;
+    margin-top: 10px;
 }
 
 .khoi5 .khoie #a {
@@ -63,8 +72,7 @@ p.p1 {
     font-weight: 600;
 }
 
-.khoi5 .khoic {
-}
+
 
 .khoi5 .khoib p {
     line-height: 22px;
@@ -99,7 +107,6 @@ p.p1 {
     height: 250px;
     background: white;
     margin: auto;
-    /* padding: 30px; */
 }
 
 .khoi4 .khoia p {
@@ -107,6 +114,7 @@ p.p1 {
     font-size: 13px;
     padding: 0px 15px;
     color: #666666;
+    line-height: 20px;
 }
 
 .khoi4 .khoia h3 {
@@ -142,6 +150,7 @@ p.p1 {
 .khoi3 .khoinho p {
     font-size: 14px;
     color: #666666;
+    line-height: 20px;
 }
 
 .khoi3 .khoinho h3 {
@@ -175,17 +184,18 @@ p.p1 {
 .khoi2 .silede p {
     font-size: 13px;
     padding-left: 20px;
+    line-height: 20px;
 }
 
 .khoi2 .silede h3 {
-    padding: 25px 20px;
+    padding: 22px 20px;
     font-size: 20px;
 }
 
 .khoi2 .silede {
     position: absolute;
     z-index: 3;
-    top: 258px;
+    top: 260px;
     right: 0px;
     width: 450px;
     height: 120px;
@@ -207,21 +217,9 @@ p.p1 {
     overflow: hidden;
 }
 
-.khoi1 h3 {
-    text-align: center;
-    padding-top: 27px;
-    font-weight: 400;
-    color: #333333;
-}
 
-.khoi1 {
-    width: 960px;
-    height: 100px;
-    margin: auto;
-    background: #ebebea;
-}
 body{
-    font-family: Georgia;
+    font-family: Georgia Regular;
 }
 
 .meutrai .khoimenu a {
@@ -247,16 +245,7 @@ body{
 
 .khoimenu {float: left;}
 
-.icon {
-    position: absolute;
-    z-index: 4;
-    border: 1px solid #ffffff;
-    left: 526px;
-    padding: 8px;
-    border-radius: 50%;
-    top: 4px;
-    background: white;
-}
+
 
 .menu .ino {
     position: absolute;
@@ -297,18 +286,19 @@ body{
     top: 335px;
     left: 30px;
     color: #666666;
+    font-size: 14px;
 }
 
 .khoi2 .iconphai {
     position: absolute;
-    top: 190px;
+    top: 162px;
     right: 30px;
     font-size: 50px;
     color: #666666;
     z-index: 2;
 }
 
-.icontrai {position: absolute;z-index: 2;top: 190px;left: 30px;font-size: 50px;color: #666666;}
+.icontrai {position: absolute;z-index: 2;top: 163px;left: 30px;font-size: 50px;color: #666666;}
 
 .khoi2 .anh {
     position: absolute;
@@ -329,6 +319,7 @@ body{
     padding-top: 27px;
     font-weight: 400;
     color: #333333;
+    line-height: 30px;
 }
 
 .khoi1 {
@@ -338,7 +329,7 @@ body{
     background: #ebebea;
 }
 body{
-    font-family: Georgia;
+    font-family: Georgia serif;
     background: #d0d0d0;
 }
 
@@ -368,13 +359,11 @@ body{
 .icon {
     position: absolute;
     z-index: 4;
-    border: 1px solid #ffffff;
-    left: 523px;
-    padding: 3px;
-    background: white;
-    top: 2px;
-    font-size: 13px;
+    left: 536px;
+    top: 3px;
     color: #894aa3;
+    background: #ebebea;
+    /* border-radius: 50%; */
 }
 
 .menu .ino {
@@ -387,7 +376,7 @@ body{
     border-bottom-left-radius: 8px;
     background: #ebebea;
     border: none;
-    padding-left: 15px;  /* lỗi #2 */
+    padding-left: 15px;  /* lÃ¡Â»â€”i #2 */
 }
 
 .menutrai {
