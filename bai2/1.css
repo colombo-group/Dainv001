@@ -317,7 +317,7 @@ body{
 .khoi1 h3 {
     text-align: center;
     padding-top: 27px;
-    font-weight: 400;
+    font-weight: 500;
     color: #333333;
     line-height: 30px;
 }
@@ -376,7 +376,7 @@ body{
     border-bottom-left-radius: 8px;
     background: #ebebea;
     border: none;
-    padding-left: 15px;  /* lÃ¡Â»â€”i #2 */
+    padding-left: 15px;  /* lÃƒÆ’Ã‚Â¡Ãƒâ€šÃ‚Â»ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âi #2 */
 }
 
 .menutrai {
@@ -387,7 +387,7 @@ body{
 }
 
 .menu .logo {
-    padding: 30px 10px;
+    padding: 30px 25px;
     color: #c1c1c1;
     position: absolute;
 }
